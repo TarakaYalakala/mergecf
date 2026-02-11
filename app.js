@@ -1,3 +1,3 @@
- const name = "Hello";
+ const name = "Hello World";
  console.log(name);
  
