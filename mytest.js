@@ -1,4 +1,2 @@
-const test = 'Tsts...';
 
-
-const tsc = {rating:'Good'}
+const My_Test = "O+Ott";
