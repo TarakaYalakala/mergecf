@@ -1,1 +1,1 @@
-const merge_2 = "Merging....";
+const merge_2 = "Merging2";
