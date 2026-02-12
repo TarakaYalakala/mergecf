@@ -1,1 +1,1 @@
-const test = 'gg';
+const test = 'MyTest';
